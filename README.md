@@ -1,5 +1,5 @@
-# data_power_bi
-# Financial Analytics Dashboard – Power BI Project
+# Hosptial_data_analysis
+# Hospital  Analytics Dashboard – Power BI Project
 
 This repository showcases an end-to-end Power BI project lifecycle — from requirement gathering to dashboard development, testing, and deployment preparation. It walks through building a financial analytics solution that turns raw financial data into interactive dashboards and standard financial statements for stakeholder decision-making.
 
